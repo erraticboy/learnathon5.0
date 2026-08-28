@@ -1,0 +1,8 @@
+{
+  "name": "Smart Streetlight & Air Quality Node",
+  "description": "Micro-Grid Smart Streetlight & Air Quality Monitoring Node with real-time adaptive dimming, solar microgrid telemetry, and PM2.5/CO2/VOC environmental sensing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
